@@ -12,7 +12,7 @@ config_version=4
 
 config/name="Jogoterror"
 run/main_scene="res://scenes/Main.tscn"
-config/icon="res://icon.png"
+config/icon="res://sprites/icon.png"
 
 [input]
 
